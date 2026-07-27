@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Tech",
+  "description": "Cyber Tech VPN - Next-gen secure VPN client supporting Xray-core and sing-box with real-time speed monitoring, server management, and custom proxy routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
